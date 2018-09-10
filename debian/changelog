@@ -1,3 +1,9 @@
+nymea (0.9.36) UNRELEASED; urgency=medium
+
+  * Add new remote connection
+
+ -- Michael Zanetti <michael.zanetti@guh.io>  Tue, 06 Mar 2018 19:57:48 +0100
+
 nymea (0.9.0) UNRELEASED; urgency=medium
 
   * Rename to nymea
