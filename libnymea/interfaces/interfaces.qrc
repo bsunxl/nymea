@@ -41,6 +41,9 @@
         <file>extendedblind.json</file>
         <file>extendedshutter.json</file>
         <file>smartlock.json</file>
+        <file>accesscontrol.json</file>
+        <file>fingerprintreader.json</file>
+        <file>useraccesscontrol.json</file>
     </qresource>
     <qresource prefix="/"/>
 </RCC>
